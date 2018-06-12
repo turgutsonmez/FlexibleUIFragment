@@ -1,0 +1,21 @@
+<resources>
+  <string name="app_name">FlexibleUIFragment</string>
+  <string-array name="konular">
+
+    <item>Activity Nedir ?</item>
+    <item>Service Nedir ?</item>
+    <item>Content Providers Nedir ?</item>
+    <item>BroadcastsReceiver Nedir ?</item>
+
+  </string-array>
+
+  <string-array name="aciklamalar">
+
+    <item>Activity sınıfı tarafından oluşturulan nesneler uygulama içinde kullanılan ekranları temsil ederler.
+    Eğer yeni activiysd</item>
+    <item>serviceadskkasdlşşlasdlşadsldlaslsdşlsadşlşlsadşldsaşlsad</item>
+    <item>Contentceadskkasdlşşlasdlşadsldlaslsdşlsadşlşlsadşldsaşlsad</item>
+    <item>Broadcasteadskkasdlşşlasdlşadsldlaslsdşlsadşlşlsadşldsaşlsad</item>
+
+  </string-array>
+</resources>
